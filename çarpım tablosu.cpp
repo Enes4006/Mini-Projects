@@ -1,15 +1,28 @@
-#include<iostream>
-using namespace std;
+#include <iostream>
+#include <iomanip>
+
 int main()
 {
-    
-    for(int i=0;i<10;i++)
+    // Tablo başlıkları
+    std::cout << std::setw(4) << "*" << " |";
+    for(int j = 0; j < 10; j++)
     {
-        
-        for(int j=0;j<10;j++)
-        {
-            
-            cout<<i<<"*"<<j<<"="<<i*j<<endl;
-        }
+        std::cout << std::setw(4) << j;
     }
+    std::cout << std::endl;
+    
+    // Ayırıcı çizgi
+    std::cout << std::string(45, '-') << std::endl;
+
+    for(int i = 0; i < 10; i++)
+    {
+        std::cout << std::setw(4) << i << " |";
+        for(int j = 0; j < 10; j++)
+        {
+            std::cout << std::setw(4) << i * j;
+        }
+        std::cout << std::endl;
+    }
+    
+    return 0;
 }
