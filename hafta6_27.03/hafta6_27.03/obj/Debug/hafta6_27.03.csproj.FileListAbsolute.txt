@@ -1,0 +1,10 @@
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\bin\Debug\hafta6_27.03.exe.config
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\bin\Debug\hafta6_27.03.exe
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\bin\Debug\hafta6_27.03.pdb
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\obj\Debug\hafta6_27.03.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\obj\Debug\hafta6_27._03.Form1.resources
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\obj\Debug\hafta6_27._03.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\obj\Debug\hafta6_27.03.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\obj\Debug\hafta6_27.03.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\obj\Debug\hafta6_27.03.exe
+C:\Users\MONSTER\Desktop\compiled codes\C#\hafta6_27.03\hafta6_27.03\obj\Debug\hafta6_27.03.pdb
